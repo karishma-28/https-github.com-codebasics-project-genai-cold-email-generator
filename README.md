@@ -1,1 +1,0 @@
-# https-github.com-codebasics-project-genai-cold-email-generator
